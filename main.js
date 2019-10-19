@@ -1,10 +1,14 @@
 function add(a, b) {
+<<<<<<< Updated upstream
 	if(a != undefined && b != undefined) {
 		return a + b;
 	} else {
 		return 0;
 	}
 	
+=======
+	return a + b;
+>>>>>>> Stashed changes
 }
 let obj = {
 	0: "hello",
